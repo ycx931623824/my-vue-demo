@@ -17,20 +17,20 @@
           href="https://forum.vuejs.org"
           target="_blank"
         >
-          Forumasdasdadas das das das 
+          Forumasdasdadas das das das 13123123
         </a>
-      </li>
+      </li>123213123
       <li>
-        <a
+        <a213213
           href="https://chat.vuejs.org"s
           target="_blank"
         >
           Community Chatasdadasdasadasdasdasdasdasdasdasdas
         </a><dt></dt>
-      </li>
-      <li>
+      </li>1231231
+      <li>3123
         <a
-          href="https://twitter.com/vuejs"
+          href="https://twitter.com/vuejs"2312312312312
           target="_blank"
         >
           Twitter
