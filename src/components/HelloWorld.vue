@@ -22,11 +22,11 @@
       </li>
       <li>
         <a
-          href="https://chat.vuejs.org"
+          href="https://chat.vuejs.org"s
           target="_blank"
         >
-          Community Chat
-        </a>
+          Community Chatasdadasdasadasdasdasdasdasdasdasdas
+        </a><dt></dt>
       </li>
       <li>
         <a
