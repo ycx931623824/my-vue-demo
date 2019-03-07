@@ -9,7 +9,7 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docs
+          Core Docssdkashjdakjhsghdkalsjkgdjl
         </a>
       </li>
       <li>
