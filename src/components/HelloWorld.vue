@@ -7,7 +7,7 @@
       <li>
         <a
           href="https://vuejs.org"
-          target="_blank"
+          target="_blank"213123
         >
           Core Docssdkashjdakjhsghdkalsjkgdjl
         </a>
