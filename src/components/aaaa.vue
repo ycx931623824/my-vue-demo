@@ -9,8 +9,8 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docssdkashjdakjhsghdkalsjkgdjl
-        </a>
+          Core Docss123123gitdkashjdakjhsghdkalsjkgdjl
+        </a>1
       </li>
       <li>
         <a
@@ -25,7 +25,7 @@
           href="https://chat.vuejs.org"s
           target="_blank"
         >
-          Community Chatasdadasdasadasdasdasdasdasdasdasdas
+          Community Chatasdadasdasadasdasasdasdasdasdasdasdasdas
         </a><dt></dt>
       </li>1231231
       <li>3123
