@@ -7,7 +7,7 @@
       <li>
         <a
           href="https://vuejs.org"
-          target="_blank"213123
+          target="_blank"
         >
           Core Docssdkashjdakjhsghdkalsjkgdjl
         </a>
@@ -77,7 +77,7 @@
           href="https://github.com/vuejs/awesome-vue"
           target="_blank"
         >
-          awesome-vue
+         我的世界充满爱
         </a>
       </li>
     </ul>
