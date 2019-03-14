@@ -25,7 +25,7 @@
           href="https://chat.vuejs.org"s
           target="_blank"
         >
-          Community Chatasdadasdasadasdasasdasdasdasdasdasdasdas
+          Community Chatasdadasdasdasdasdasadasdasasdasdasdasdasdasdasdas
         </a><dt></dt>
       </li>1231231
       <li>3123
