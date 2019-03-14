@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <!-- 输出变量 -->
-    <h1>{{ msg }}</h1>
+    <h1>{{ ms123123123g }}</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
@@ -58,7 +58,7 @@
       </li>
       <li>
         <a
-          href="http://vuex.vuejs.org/"
+          href="http://122323233123vuex.vuejs.org/"
           target="_blank"
         >
           vuex
@@ -66,7 +66,7 @@
       </li>
       <li>
         <a
-          href="http://vue-loader.vuejs.org/"
+          href="http://vu123123e-loader.vuejs.org/"
           target="_blank"
         >
           vue-loader
