@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <!-- 输出变量 -->
-    <h1>{{ ms123123123g }}</h1>
+    <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
@@ -9,7 +9,7 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docss123123gitdkasadasdasshjdakjhsghdkalsjkgdjl
+          Core Docss123123gitdkashjdakjhsghdkalsjkgdjl
         </a>1
       </li>
       <li>
@@ -25,12 +25,12 @@
           href="https://chat.vuejs.org"s
           target="_blank"
         >
-          Community Chatasdadasdasdasdasdasadasdasasdasdasdasdasdasdasdas
+          Community Chatasdadasdasadasdasasdasdasdasdasdasdasdas
         </a><dt></dt>
       </li>1231231
       <li>3123
         <a
-          href="https://twitter.com/vuejs"2312312312312
+          href="https://twitter.com/vuejs"
           target="_blank"
         >
           Twitter
@@ -58,7 +58,7 @@
       </li>
       <li>
         <a
-          href="http://122323233123vuex.vuejs.org/"
+          href="http://vuex.vuejs.org/"
           target="_blank"
         >
           vuex
@@ -66,7 +66,7 @@
       </li>
       <li>
         <a
-          href="http://vu123123e-loader.vuejs.org/"
+          href="http://vue-loader.vuejs.org/"
           target="_blank"
         >
           vue-loader
