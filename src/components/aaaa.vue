@@ -31,7 +31,6 @@
       <li>3123
         <a
           href="https://twitter.com/vuejs"
-          target="_blank"
         >
           Twitter
         </a>
