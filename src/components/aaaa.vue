@@ -50,7 +50,7 @@ wq          target="_blank"
     <ul>
       <li>
         <a
-          href="http://router.vuejs.org/"
+          href="http://rasdasdouter.vuejs.org/"
           target="_blank"
         >
           vue-router
@@ -58,7 +58,7 @@ wq          target="_blank"
       </li>
       <li>
         <a
-          href="http://vuex.vuejs.org/"
+          href="http://vasdasdasduex.vuejs.org/"
           target="_blank"
         >
           vuex
@@ -66,7 +66,7 @@ wq          target="_blank"
       </li>
       <li>
         <a
-          href="http://vue-loader.vuejs.org/"
+          href="http://vueasdasdasd-loader.vuejs.org/"
           target="_blank"
         >
           vue-loader
