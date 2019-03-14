@@ -39,7 +39,7 @@
       <br>
       <li>
         <a
-          href="http://vuejs-templates.github.io/webpack/"
+          href="http://vuejs-temp123123123123lates.github.io/webpack/"
           target="_blank"
         >
           Docs for This Template
