@@ -30,8 +30,7 @@
       </li>1231231
       <li>3123
         <a
-          href="https://twitter.com/vuejs"
-          target="_blank"
+          href="https://twasdasdasitter.com/vuejs"
         >
           Twitter
         </a>
@@ -66,7 +65,7 @@ wq          target="_blank"
       </li>
       <li>
         <a
-          href="http://vueasdasdasd-loader.vuejs.org/"
+          href="http://vueasdasdasdasdasd-loader.vuejs.org/"
           target="_blank"
         >
           vue-loader
