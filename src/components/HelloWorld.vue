@@ -91,7 +91,7 @@ export default {
   data () {
     return {
        // 定义变量
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your 123dasdasasasa123123.jass asdassadas'
     }
   }
 }
