@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <!-- 输出变量 -->
-    <h1>{{ msg }}</h1>
+    <h1>{{ ms123123123g }}</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
@@ -30,8 +30,7 @@
       </li>1231231
       <li>3123
         <a
-          href="https://twitter.com/vuejs"2312312312312
-          target="_blank"
+          href="https://twasdasdasitter.com/vuejs"
         >
           Twitter
         </a>
@@ -39,7 +38,7 @@
       <br>
       <li>
         <a
-          href="http://vuejs-templates.github.io/webpack/"
+          href="http://vuejs-temp123123123123lates.github.io/webpack/"
           target="_blank"
         >
           Docs for This Template
@@ -50,7 +49,7 @@
     <ul>
       <li>
         <a
-          href="http://router.vuejs.org/"
+          href="http://rasdasdouter.vuejs.org/"
           target="_blank"
         >
           vue-router
@@ -58,7 +57,15 @@
       </li>
       <li>
         <a
+<<<<<<< HEAD
+<<<<<<< HEAD
           href="http://vuex.vuejs.org/"
+=======
+          href="http://122323233123vuex.vuejs.org/"
+>>>>>>> b0b9e1c... m2
+=======
+          href="http://vasdasdasduex.vuejs.org/"
+>>>>>>> 5d96dff... [1231231231hebing]
           target="_blank"
         >
           vuex
@@ -66,7 +73,15 @@
       </li>
       <li>
         <a
+<<<<<<< HEAD
+<<<<<<< HEAD
           href="http://vue-loader.vuejs.org/"
+=======
+          href="http://vu123123e-loader.vuejs.org/"
+>>>>>>> b0b9e1c... m2
+=======
+          href="http://vueasdasdasdasdasd-loader.vuejs.org/"
+>>>>>>> 5d96dff... [1231231231hebing]
           target="_blank"
         >
           vue-loader
